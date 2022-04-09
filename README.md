@@ -2,7 +2,7 @@
 
 ### 🧑‍🎓Estudando atualmente webdeveloper https://github.com/OtterwiseCo <br>
 ### 🎓Graduado em Tecnologia em Analise de sistemas <br>
-### Ocupação profissional: Prodo Sistemas <br>
+
 
 <div align="center">
   <a href="https://github.com/sidemarschimmelpfennig">
