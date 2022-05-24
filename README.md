@@ -1,6 +1,6 @@
 ## Ola!! eu sou Sidemar Schimmelpfennig Junior
 
-### 🧑‍🎓Estudando atualmente webdeveloper https://github.com/OtterwiseCo <br>
+### 🧑‍🎓Estudando atualmente BootCamp fullstack TQI na DIGITAL INNATION ONE https://github.com/digitalinnovationone/<br>
 ### 🎓Graduado em Tecnologia em Analise de sistemas <br>
 
 
