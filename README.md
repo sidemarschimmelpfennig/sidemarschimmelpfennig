@@ -1,6 +1,7 @@
 ## Ola!! eu sou Sidemar Schimmelpfennig Junior
 
-### 🧑‍🎓Estudando atualmente BootCamp fullstack TQI na DIGITAL INNATION ONE/Currently studying BootCamp fullstack TQI at DIGITAL INNATION ONE https://github.com/digitalinnovationone/<br>
+### 🧑‍🎓Estudando atualmente BootCamp DataBase Experience DIGITAL INNATION ONE https://github.com/digitalinnovationone/<br>
+### 🧑‍🎓Estudando atualmente Jovem Programador Senac <br>
 ### 🎓Graduado em Tecnologia em Analise de sistemas/Bachelor of Technology in Systems Analysis <br>
 
 
