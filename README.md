@@ -1,9 +1,11 @@
 ## Ola!! eu sou Sidemar Schimmelpfennig Junior
 
-### 🧑‍🎓Estudando atualmente BootCamp Cloud FullStack WamburgPincus https://github.com/digitalinnovationone/<br>
-### 🧑‍🎓Estudando atualmente Jovem Programador Senac <br>
+### 🧑‍🎓Estudando atualmente BootCamp Impulso Javascript https://github.com/digitalinnovationone/<br>
+
 ### 🏬 👔  Desenvolvedor Delphi CoffCode Sistemas <br>
 ### 🎓Graduado em Tecnologia em Analise de sistemas/Bachelor of Technology in Systems Analysis <br>
+### 🎓Programdor de Sistema - Jovem Programador Senac <br>
+### 🎓Programdor Web - Jovem Programador Senac <br>
 
 
 <div style="display: inline_block"><br>
