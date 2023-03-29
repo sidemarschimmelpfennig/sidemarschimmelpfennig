@@ -2,9 +2,7 @@
 
 ### 🏬 👔  Desenvolvedor Delphi CoffCode Sistemas <br>
 ### 🎓Graduado em Tecnologia em Analise de sistemas/Bachelor of Technology in Systems Analysis <br>
-### 🎓Programdor de Sistema - Jovem Programador Senac <br>
-### 🎓Programdor Web - Jovem Programador Senac <br>
-
+### 🎓Programdor de Sistema e Web- Jovem Programador Senac <br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Side-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
