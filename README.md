@@ -1,6 +1,6 @@
 ## Ola!! eu sou Sidemar Schimmelpfennig Junior
 
-### 🏬 👔  Desenvolvedor Delphi CoffCode Sistemas <br>
+### 🏬 👔  Developer Delphi in CoffCode Sistemas <br>
 ### 🎓Graduado em Tecnologia em Analise de sistemas/Bachelor of Technology in Systems Analysis <br>
 ### 🎓Programdor de Sistema e Web- Jovem Programador Senac <br>
 
