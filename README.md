@@ -2,7 +2,7 @@
 
 ### 🏬 👔  Developer Delphi in CoffCode Sistemas <br>
 ### 🎓 Graduado em Tecnologia em Analise de sistemas/Bachelor of Technology in Systems Analysis <br>
-### 🎓 Programdor de Sistema e Web- Jovem Programador Senac <br>
+### 🎓 Programdor de Sistema e Web- Jovem Programador Senac or Course Systems and Web Developer in Senac  <br>
 ### 👨‍🎓 Student Delphi in Academia do Codigo and FullStack BootCamp from Santanter Programs  
 
 <div style="display: inline_block"><br>
