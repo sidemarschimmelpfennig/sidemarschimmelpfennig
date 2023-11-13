@@ -3,7 +3,8 @@
 ### 🏬 👔  Developer Delphi in CoffCode Sistemas <br>
 ### 🎓 Graduado em Tecnologia em Analise de sistemas / Bachelor of Technology in Systems Analysis <br>
 ### 🎓 Programdor de Sistema e Web- Jovem Programador Senac / Course Systems and Web Developer in Senac  <br>
-### 👨‍🎓 Student Delphi in Academia do Codigo and FullStack BootCamp from Santanter Programs  
+### 🎓 Estudando javascript/tipescript udemy
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Side-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
