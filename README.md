@@ -28,7 +28,7 @@
 <a href="https://github.com/sidemarschimmelpfennig/JavaScript-e-TypeScript-do-basico-ao-avancado">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidemarschimmelpfennig&repo=JavaScript-e-TypeScript-do-basico-ao-avancado&theme=buefy" />
 </a>
-<a href="https://github.com/sidemarschimmelpfennig/sidemarschimmelpfennig.github.io">
+<a href="https://sidemarschimmelpfennig.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidemarschimmelpfennig&repo=sidemarschimmelpfennig.github.io&theme=buefy" />
 </a>
 
