@@ -10,7 +10,7 @@
   <img align="center" alt="Side-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Side-react  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
   <img align="center" alt="Side-vuejs  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-   <img align="center" alt="Side-vuejs height="70px" width="70px" src="https://img2.gratispng.com/20181202/hyu/kisspng-delphi-embarcadero-technologies-object-pascal-cb-ioda-development-amp-design-solutions-5c03ef93ee6872.9728080615437618119765.jpg">
+
 </div>
 <br>
 <div> 
