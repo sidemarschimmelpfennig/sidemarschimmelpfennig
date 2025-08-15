@@ -1,44 +1,84 @@
-## Ola!! eu sou Sidemar Schimmelpfennig Junior
+# 👋 Olá! Eu sou Sidemar Schimmelpfennig Junior
+### Desenvolvedor Delphi | Analista e Desenvolvedor de Sistemas  
+*(Scroll down for English version)*  
 
-### 🏬 👔  Developer of Systems <br>
-###  Desenvolvedor Delphi
-### 🎓 Graduado em Tecnologia em Analise de sistemas / Bachelor of Technology in Systems Analysis <br>
-### 🎓 Programdor de Sistema e Web- Jovem Programador Senac / Course Systems and Web Developer in Senac  <br>
+🎯 Apaixonado por desenvolvimento de software e automação de processos.  
+🔍 Foco em **Delphi, ERP, SQL, APIs REST e boas práticas de programação**.  
+📚 Sempre aprendendo **Design Patterns**, **Clean Code** e **arquitetura de software**.  
 
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Side-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Side-react  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
-  <img align="center" alt="Side-vuejs  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+## 🚀 Tecnologias & Ferramentas
+![Delphi](https://img.shields.io/badge/Delphi-%23EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-FF4500?style=for-the-badge&logo=firefox&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-<br>
-<div> 
+---
 
-  ![Snake animation](https://github.com/sidemarschimmelpfennig/sidemarschimmelpfennig/blob/output/github-contribution-grid-snake.svg)
+## 🌟 Projetos em Destaque
+- [**ERP Delphi**](https://github.com/sidemarschimmelpfennig/erp-delphi) → Sistema de gestão com **Delphi + Firebird**
+- [**API Node.js**](https://github.com/sidemarschimmelpfennig/api-node) → API REST com autenticação JWT
+- [**Dashboard Vue.js**](https://github.com/sidemarschimmelpfennig/dashboard-vue) → Painel administrativo responsivo
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sidemarschimmelpfennig&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sidemar github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidemarschimmelpfennig&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+*(Adicione links reais para seus repositórios!)*  
 
-#### Top Repositories
+---
 
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidemarschimmelpfennig&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidemarschimmelpfennig&layout=compact&theme=radical)
 
-<a href="https://github.com/sidemarschimmelpfennig/JavaScript-e-TypeScript-do-basico-ao-avancado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidemarschimmelpfennig&repo=JavaScript-e-TypeScript-do-basico-ao-avancado&theme=buefy" />
-</a>
-<a href="https://sidemarschimmelpfennig.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidemarschimmelpfennig&repo=sidemarschimmelpfennig.github.io&theme=buefy" />
-</a>
+---
 
-<br />
-<br />
+## 📬 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidemar-schimmelpfennig-junior)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sidemarschimmelpfennig.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui@gmail.com)
 
-  <a href="https://instagram.com/sidemar_junior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/6QAWCTT2JK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:sidemarschi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sidemar-schimmelpfennig-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:sidemarschi@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://pt-br.facebook.com/sidemar.schimmelpfennig" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-</div>
-  
- 
+---
+
+# 🇺🇸 Hello! I'm Sidemar Schimmelpfennig Junior
+### Delphi Developer | Systems Analyst & Software Developer  
+
+🎯 Passionate about software development and process automation.  
+🔍 Focus on **Delphi, ERP systems, SQL, REST APIs and best practices**.  
+📚 Always learning **Design Patterns**, **Clean Code**, and **software architecture**.  
+
+---
+
+## 🚀 Technologies & Tools
+![Delphi](https://img.shields.io/badge/Delphi-%23EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-FF4500?style=for-the-badge&logo=firefox&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+- [**ERP Delphi**](https://github.com/sidemarschimmelpfennig/erp-delphi) → ERP system with **Delphi + Firebird**
+- [**Node.js API**](https://github.com/sidemarschimmelpfennig/api-node) → REST API with JWT authentication
+- [**Vue.js Dashboard**](https://github.com/sidemarschimmelpfennig/dashboard-vue) → Responsive admin panel
+
+---
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidemarschimmelpfennig&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidemarschimmelpfennig&layout=compact&theme=radical)
+
+---
+
+## 📬 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidemar-schimmelpfennig-junior)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sidemarschimmelpfennig.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui@gmail.com)
+
+---
+
+⭐ **Dica:** Depois de criar este README no repositório com o mesmo nome do seu usuário (`sidemarschimmelpfennig`), fixe os projetos mais relevantes e faça commits frequentes para melhorar seu gráfico de atividade.
