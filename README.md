@@ -29,7 +29,7 @@
 
 ## 📬 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidemar-schimmelpfennig-junior)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)(https://sidemarschimmelpfennig.github.io/)][(https://github.com/sidemarschimmelpfennig?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sidemarschimmelpfennig.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidemarschimmelpfennig@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5549998164594?text=Olá%2C+vim+pelo+seu+GitHub)
 ---
