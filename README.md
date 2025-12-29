@@ -9,8 +9,6 @@
 
 ## 🚀 Tecnologias & Ferramentas
 ![Delphi](https://img.shields.io/badge/Delphi-%23EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebird](https://img.shields.io/badge/Firebird-FF4500?style=for-the-badge&logo=firefox&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
