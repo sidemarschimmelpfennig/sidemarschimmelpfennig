@@ -20,9 +20,8 @@
 ---
 
 ## 🌟 Projetos em Destaque
-- [**ERP Delphi**](https://github.com/sidemarschimmelpfennig/erp-delphi) → Sistema de gestão com **Delphi + Firebird**
+- [**ERP Basico Delphi**](https://github.com/sidemarschimmelpfennig/erp-delphi) → Sistema de gestão com **Delphi + Firebird**
 - [**API Node.js**](https://github.com/sidemarschimmelpfennig/api-node) → API REST com autenticação JWT
-- [**Dashboard Vue.js**](https://github.com/sidemarschimmelpfennig/dashboard-vue) → Painel administrativo responsivo
 
 *(Adicione links reais para seus repositórios!)*  
 
