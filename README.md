@@ -1,13 +1,13 @@
 # Olá! Eu sou Sidemar Schimmelpfennig Junior
 ### Desenvolvedor de Software | Delphi • PHP • JavaScript • Python • APIs REST
 
-🎯 Desenvolvedor focado na criação e evolução de soluções para **automação comercial, gestão empresarial (ERP), APIs REST e ecossistemas Web & Mobile**.  
-⚙️ Experiência em desenvolvimento e manutenção de sistemas em ambiente real de produção, resolução de incidentes e integração de sistemas.  
-📚 Práticas voltadas para **Clean Code, arquitetura de software, modelação relacional e boas práticas de engenharia**.
+Desenvolvedor focado na criação e evolução de soluções para **automação comercial, gestão empresarial (ERP), APIs REST e ecossistemas Web & Mobile**.  
+Experiência em desenvolvimento e manutenção de sistemas em ambiente real de produção, resolução de incidentes e integração de sistemas.  
+Práticas voltadas para **Clean Code, arquitetura de software, modelação relacional e boas práticas de engenharia**.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ### Linguagens & Back-end
 ![Delphi](https://img.shields.io/badge/Delphi-%23EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
@@ -31,17 +31,17 @@
 
 ---
 
-## 🌟 Projetos em Destaque
+##  Projetos em Destaque
 
-- 🛒 **Marketplatz — Sistema de Marketplace:** Plataforma completa para comercialização de produtos, gestão de pedidos, utilizadores, catálogo e suporte a vendas/PDV.  
+- **Marketplatz — Sistema de Marketplace:** Plataforma completa para comercialização de produtos, gestão de pedidos, utilizadores, catálogo e suporte a vendas/PDV.  
   *Stack:* PHP (CodeIgniter), Vue.js, Inertia.js, MySQL/MariaDB, APIs REST e aplicação mobile em React Native.
-- ⏱️ **Sistema de Placar Eletrónico com Vídeo:** Aplicação desenvolvida e implantada em ambiente municipal para gestão de placar desportivo e exibição de conteúdos audiovisuais em hardware dedicado.  
+-  **Sistema de Placar Eletrónico com Vídeo:** Aplicação desenvolvida e implantada em ambiente municipal para gestão de placar desportivo e exibição de conteúdos audiovisuais em hardware dedicado.  
   *Stack:* Python.
-- 💼 **Soluções em Automação Comercial & ERP:** Módulos de retaguarda, controlo fiscal/comercial e integrações utilizando Delphi e bases de dados relacionais (Firebird / MySQL).
+- **Soluções em Automação Comercial & ERP:** Módulos de retaguarda, controlo fiscal/comercial e integrações utilizando Delphi e bases de dados relacionais (Firebird / MySQL).
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidemar-schimmelpfennig-junior/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidemarschimmelpfennig)
