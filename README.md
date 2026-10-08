@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Sidemar Schimmelpfennig Junior
+# Olá! Eu sou Sidemar Schimmelpfennig Junior
 ### Desenvolvedor de Software | Delphi • PHP • JavaScript • Python • APIs REST
 
 🎯 Desenvolvedor focado na criação e evolução de soluções para **automação comercial, gestão empresarial (ERP), APIs REST e ecossistemas Web & Mobile**.  
