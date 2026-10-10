@@ -7,9 +7,9 @@ Práticas voltadas para **Clean Code, arquitetura de software, modelação relac
 
 ---
 
-##  Tecnologias & Ferramentas
+##  Tecnologias e Ferramentas
 
-### Linguagens & Back-end
+### Linguagens e Back-end
 ![Delphi](https://img.shields.io/badge/Delphi-%23EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,13 +17,13 @@ Práticas voltadas para **Clean Code, arquitetura de software, modelação relac
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Front-end, Mobile & Frameworks
+### Front-end, Mobile e Frameworks
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Bases de Dados & Ferramentas
+### Bases de Dados e Ferramentas
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
